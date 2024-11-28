@@ -2,6 +2,7 @@
 
 ![Screenshot (57)](https://github.com/user-attachments/assets/d24b0fbd-63cf-4332-a3a7-47e0e63d73c7)
 
+![Screenshot (73)](https://github.com/user-attachments/assets/a7d714f0-58e5-411e-81f1-606ce57e0bfb)
 
 **Overview**
 This project involves the design and simulation of a **wearable antenna** using **CST Studio Suite**, a premier tool for electromagnetic simulations. The primary focus is to develop a compact, high-performance antenna that can be seamlessly integrated into wearable devices, such as fitness trackers, health monitors, and smart clothing. The antenna is designed to be efficient, with optimized performance while maintaining the size and flexibility required for wearable applications. This project not only focuses on the technical aspects of antenna design but also addresses the challenges of integrating antennas into wearable technologies, such as minimizing size, ensuring comfort, and optimizing performance for limited space and power.
